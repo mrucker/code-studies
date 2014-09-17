@@ -1,0 +1,7 @@
+C:\Users\Mark\My Projects\ThreeAsynchronousModels\ThreeAsynchronousModels\bin\Debug\ThreeAsynchronousModels.dll
+C:\Users\Mark\My Projects\ThreeAsynchronousModels\ThreeAsynchronousModels\bin\Debug\ThreeAsynchronousModels.pdb
+C:\Users\Mark\My Projects\ThreeAsynchronousModels\ThreeAsynchronousModels\bin\Debug\nunit.framework.dll
+C:\Users\Mark\My Projects\ThreeAsynchronousModels\ThreeAsynchronousModels\bin\Debug\nunit.framework.xml
+C:\Users\Mark\My Projects\ThreeAsynchronousModels\ThreeAsynchronousModels\obj\Debug\ThreeAsynchronousPattern.csprojResolveAssemblyReference.cache
+C:\Users\Mark\My Projects\ThreeAsynchronousModels\ThreeAsynchronousModels\obj\Debug\ThreeAsynchronousModels.dll
+C:\Users\Mark\My Projects\ThreeAsynchronousModels\ThreeAsynchronousModels\obj\Debug\ThreeAsynchronousModels.pdb

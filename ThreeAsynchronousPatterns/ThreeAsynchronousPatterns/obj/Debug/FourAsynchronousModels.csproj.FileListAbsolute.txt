@@ -1,0 +1,13 @@
+C:\Users\Mark\My Projects\FourAsynchronousModels\FourAsynchronousModels\bin\Debug\FourAsynchronousModels.dll
+C:\Users\Mark\My Projects\FourAsynchronousModels\FourAsynchronousModels\bin\Debug\FourAsynchronousModels.pdb
+C:\Users\Mark\My Projects\FourAsynchronousModels\FourAsynchronousModels\bin\Debug\nunit.framework.dll
+C:\Users\Mark\My Projects\FourAsynchronousModels\FourAsynchronousModels\bin\Debug\nunit.framework.xml
+C:\Users\Mark\My Projects\FourAsynchronousModels\FourAsynchronousModels\obj\Debug\FourAsynchronousModels.csprojResolveAssemblyReference.cache
+C:\Users\Mark\My Projects\FourAsynchronousModels\FourAsynchronousModels\obj\Debug\FourAsynchronousModels.dll
+C:\Users\Mark\My Projects\FourAsynchronousModels\FourAsynchronousModels\obj\Debug\FourAsynchronousModels.pdb
+C:\Users\Mark\My Projects\FourAsynchronousModels\FourAsynchronousModels\bin\Debug\FourAsynchronousModels.dll.config
+C:\Users\Mark\My Projects\FourAsynchronousModels\FourAsynchronousModels\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Mark\My Projects\FourAsynchronousModels\FourAsynchronousModels\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Mark\My Projects\FourAsynchronousModels\FourAsynchronousModels\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Mark\My Projects\FourAsynchronousModels\FourAsynchronousModels\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Mark\My Projects\FourAsynchronousModels\FourAsynchronousModels\obj\Debug\FourAsynchronousModels.csproj.App.config
