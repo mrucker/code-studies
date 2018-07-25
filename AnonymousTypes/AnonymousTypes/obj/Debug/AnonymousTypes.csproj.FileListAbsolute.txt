@@ -1,2 +1,0 @@
-C:\Users\Mark\My Projects\AnonymousTypes\AnonymousTypes\obj\Debug\AnonymousTypes.csprojResolveAssemblyReference.cache
-C:\Users\Mark\My Projects\.NET Studies\AnonymousTypes\AnonymousTypes\obj\Debug\AnonymousTypes.csprojResolveAssemblyReference.cache
