@@ -4,7 +4,8 @@
 %in order to maintain multiple cvx versions on one machine remove these paths
 %then update the below cvx paths line to manually include the cvx path for this session
 
-cvx_path = ['..' filesep '..' filesep 'cvx'];
+%cvx_path = ['..' filesep '..' filesep 'cvx'];
+cvx_path = ['shared' filesep 'cvx'];
 
 addpath(fullfile(fileparts(which(mfilename)), cvx_path));
 addpath(fullfile(fileparts(which(mfilename)), cvx_path, 'functions', 'square_'));
@@ -15,4 +16,7 @@ addpath(fullfile(fileparts(which(mfilename)), cvx_path, 'functions'));
 addpath(fullfile(fileparts(which(mfilename)), cvx_path, 'commands'));
 addpath(fullfile(fileparts(which(mfilename)), cvx_path, 'builtins'));
 
-addpath(genpath(fullfile(fileparts(which(mfilename)),'shared')));
+addpath(fullfile(fileparts(which(mfilename)),'shared', 'kernels'));
+
+%use genpath to include all folders in a directory
+%addpath(genpath(fullfile(fileparts(which(mfilename)),'shared')));
