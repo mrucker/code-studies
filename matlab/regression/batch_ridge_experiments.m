@@ -1,4 +1,4 @@
-addpath('./kernels');
+run(fullfile(fileparts(which(mfilename)), '..', 'paths.m'))
 
 lambda = 1;
 

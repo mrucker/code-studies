@@ -1,17 +1,11 @@
-addpath('./kernels');
+run(fullfile(fileparts(which(mfilename)), '..', 'paths.m'))
 
 %Y_Linearly_Seperable_Y_Centered();
 %N_Linearly_Seperable_Y_Centered();
 %Y_Linearly_Seperable_N_Centered();
-%N_Linearly_Seperable_N_Centered();
-
-x = [0 0;
-     8 9];
-y = [-1;1];
-
-
-
-[margin, right, wrong, unknown, dk] = maxMarginOptimization_1_h(y,x);
+tic;
+N_Linearly_Seperable_N_Centered();
+toc;
 
 function Y_Linearly_Seperable_Y_Centered()
     %not linearly separable, centered at 0;
@@ -49,12 +43,12 @@ end
 
 function N_Linearly_Seperable_N_Centered()
     
-    count = 200;
+    count = 100;
     center_1 = [0;5];
-    center_2 = [5;50];
+    center_2 = [.5;5.5];
     d_1 = 1;
     d_2 = 1;
-            
+
     x1 = rand(2,count)*d_1 - [d_1/2; d_1/2];
     x2 = rand(2,count)*d_2 - [d_2/2; d_2/2];
     
@@ -65,17 +59,9 @@ function N_Linearly_Seperable_N_Centered()
     y2 = -ones(1,count);
     
     x = horzcat(x1,x2);
-    y = horzcat(y1,y2)';   
+    y = horzcat(y1,y2)';
     
-    [margin(1), right(1), wrong(1), unknown, dk] = maxMarginOptimization_4_s(y,x,0, @K);
-    %[margin(2), right(2), wrong(2), unknown, dk] = maxMarginOptimization_4_s(y,x,0, kernel_poly(2));
-    %[margin(3), right(3), wrong(3), unknown, dk] = maxMarginOptimization_4_s(y,x,0, kernel_poly(3));
-    %[margin(4), right(4), wrong(4), unknown, dk] = maxMarginOptimization_4_s(y,x,0, kernel_poly(4));
-    %[margin(5), right(5), wrong(5), unknown, dk] = maxMarginOptimization_4_s(y,x,0, kernel_poly(5));
-    %[margin(6), right(6), wrong(6), unknown, dk] = maxMarginOptimization_4_s(y,x,0, kernel_poly(6));
-    %[margin(7), right(7), wrong(7), unknown, dk] = maxMarginOptimization_4_s(y,x,0, kernel_poly(7));
-    %[margin(8), right(8), wrong(8), unknown, dk] = maxMarginOptimization_4_s(y,x,0, kernel_poly(8));
-    %[margin(9), right(9), wrong(9), unknown, dk] = maxMarginOptimization_4_s(y,x,0, kernel_poly(9));    
+    [margin(1), right(1), wrong(1), unknown, dk] = maxMarginOptimization_4_s(y,x,k_gaussian(k_norm(),.01));
     
     draw(y,x,50,dk);
     
