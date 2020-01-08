@@ -1,2 +1,7 @@
-#un-ignored in this project so CompareExeAndDll.ps1 will work immediately
-!*/bin/
+#explicitly included so CompareExeAndDll.ps1 will work out-of-the-box
+#notice: the upstream .gitignore excludes both bin and Debug, so we need both
+!bin
+!Debug
+*/bin/Debug/*.config
+*/bin/Debug/*.manifest
+*/bin/Debug/*.vshost.exe
