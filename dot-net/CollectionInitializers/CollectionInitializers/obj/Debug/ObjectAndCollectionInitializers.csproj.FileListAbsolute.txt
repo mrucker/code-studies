@@ -1,5 +1,0 @@
-C:\Users\Mark\My Projects\ObjectAndCollectionInitializers\ObjectAndCollectionInitializers\bin\Debug\ObjectAndCollectionInitializers.dll
-C:\Users\Mark\My Projects\ObjectAndCollectionInitializers\ObjectAndCollectionInitializers\bin\Debug\ObjectAndCollectionInitializers.pdb
-C:\Users\Mark\My Projects\ObjectAndCollectionInitializers\ObjectAndCollectionInitializers\obj\Debug\ObjectAndCollectionInitializers.csprojResolveAssemblyReference.cache
-C:\Users\Mark\My Projects\ObjectAndCollectionInitializers\ObjectAndCollectionInitializers\obj\Debug\ObjectAndCollectionInitializers.dll
-C:\Users\Mark\My Projects\ObjectAndCollectionInitializers\ObjectAndCollectionInitializers\obj\Debug\ObjectAndCollectionInitializers.pdb

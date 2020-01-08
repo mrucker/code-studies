@@ -1,7 +1,0 @@
-C:\Users\Mark\My Projects\EnumerableQueryableAndLinq\EnumerableQueryableAndLinq\bin\Debug\EnumerableQueryableAndLinq.dll
-C:\Users\Mark\My Projects\EnumerableQueryableAndLinq\EnumerableQueryableAndLinq\bin\Debug\EnumerableQueryableAndLinq.pdb
-C:\Users\Mark\My Projects\EnumerableQueryableAndLinq\EnumerableQueryableAndLinq\bin\Debug\nunit.framework.dll
-C:\Users\Mark\My Projects\EnumerableQueryableAndLinq\EnumerableQueryableAndLinq\bin\Debug\nunit.framework.xml
-C:\Users\Mark\My Projects\EnumerableQueryableAndLinq\EnumerableQueryableAndLinq\obj\Debug\EnumerableQueryableAndLinq.csprojResolveAssemblyReference.cache
-C:\Users\Mark\My Projects\EnumerableQueryableAndLinq\EnumerableQueryableAndLinq\obj\Debug\EnumerableQueryableAndLinq.dll
-C:\Users\Mark\My Projects\EnumerableQueryableAndLinq\EnumerableQueryableAndLinq\obj\Debug\EnumerableQueryableAndLinq.pdb

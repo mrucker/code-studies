@@ -1,6 +1,0 @@
-C:\Users\Mark\My Projects\CompareDotNetExeAndDll\project - Copy 3 (DLL)\bin\Debug\project.dll.config
-C:\Users\Mark\My Projects\CompareDotNetExeAndDll\project - Copy 3 (DLL)\bin\Debug\project.dll
-C:\Users\Mark\My Projects\CompareDotNetExeAndDll\project - Copy 3 (DLL)\bin\Debug\project.pdb
-C:\Users\Mark\My Projects\CompareDotNetExeAndDll\project - Copy 3 (DLL)\obj\Debug\Project - Copy 3 (DLL).csprojResolveAssemblyReference.cache
-C:\Users\Mark\My Projects\CompareDotNetExeAndDll\project - Copy 3 (DLL)\obj\Debug\project.dll
-C:\Users\Mark\My Projects\CompareDotNetExeAndDll\project - Copy 3 (DLL)\obj\Debug\project.pdb

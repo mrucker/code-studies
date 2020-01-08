@@ -1,3 +1,0 @@
-#un-ignored in this project so CompareExeAndDll.ps1 will work immediately
-!*/bin/
-*.pdb
